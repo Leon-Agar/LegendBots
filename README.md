@@ -1,10 +1,11 @@
 # By Jimboy's 3100 developer
 Free open source agar.io normal.
-
-## Change Log
-New version - v2.0.0
+## Changelog
 * Bypass recaptcha v3
 * Updated FB files
+
+## Beta Bots
+Note: The bots may not appear and it is because it is still a beta version. You can reload the game and reconnect them.
 
 ## Usage Repl
 1. [usage bots with repl.it](https://www.youtube.com/watch?v=xIupgFR7ZTY)
