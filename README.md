@@ -6,10 +6,10 @@ New version - v2.0.0
 * Bypass recaptcha v3
 * Updated FB files
 
-## usage Repl
+## Usage Repl
 1. [usage bots with repl.it](https://www.youtube.com/watch?v=xIupgFR7ZTY)
 
-# ##local host windows
+# ##Local host windows
 1. Download and extract the 'zip' file
 2. Run Install.bat and wait for the installation and the window to close.
 3. Run Start.bat and leave the window open.
