@@ -17,7 +17,7 @@ Note: The bots may not appear and it is because it is still a beta version. You 
 4. Go Agario with LegendMod extension. (https://legendmod.ml/)
 5. Choose the name and number of bots (Do not abuse the server so that people can grow)
 6. in the ws it has to be put; ws://localhost:1337 or 8083
-7. Click Connect and wait for the "captcha token" to load around 50 or more. then run start bots.
+7. Click Connect and wait for the "captcha token" to load around 30-60 then run start bots.
 8. Have fun :D
 
 ##VPS
