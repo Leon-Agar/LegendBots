@@ -17,7 +17,7 @@
 1. Download and extract the 'zip' file
 2. Run `Install.bat` and wait for the installation and the window to close.
 3. Run `Start.bat` and leave the window open.
-4. Go Agario with LegendMod extension. (https://legendmod.ml/) (you need tampermonkey extension installed)
+4. Go Agario with LegendMod extension. (https://legendmod.ml/) (you need [tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl) in chrome installed)
 5. Choose the name and number of bots (Do not abuse the server so that people can grow)
 6. in the ws it has to be put; `ws://localhost:1337` or 8083
 7. Click `Connect` and wait for the "captcha token" to load around 30-60 then run `start bots`.
