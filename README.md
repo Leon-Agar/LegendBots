@@ -1,4 +1,4 @@
-# By Jimboy's 3100 developer
+# Credits to Jimboy's 3100 developer
 Free open source agar.io normal.
 ## Changelog
 * Bypass recaptcha v3
