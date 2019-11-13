@@ -11,7 +11,7 @@ Note: The bots may not appear so try to reconnect until the bots appear
 1. [usage bots with repl.it](https://www.youtube.com/watch?v=xIupgFR7ZTY)
 
 ## Download and install Node
-[Node.js 12.13.0 LTS](https://nodejs.org/)
+1. [Node.js 12.13.0 LTS](https://nodejs.org/)
 
 # ##Local host windows
 1. Download and extract the 'zip' file
