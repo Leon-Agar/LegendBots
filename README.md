@@ -4,7 +4,7 @@ Free open source agar.io normal.
 * Bypass recaptcha v3
 
 ## PartyBots
-Note: The bots may not appear so try to reconnect until the bots appear
+* Note: The bots may not appear so try to reconnect until the bots appear.
 
 ## Usage Method Repl
 1. [usage bots with repl.it](https://www.youtube.com/watch?v=xIupgFR7ZTY)
