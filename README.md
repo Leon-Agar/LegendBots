@@ -6,7 +6,7 @@ Free open source agar.io normal.
 ## PartyBots
 * Note: The bots may not appear so try to reconnect until the bots appear.
 
-## Usage Method Repl
+## Usage method Repl.it
 1. [usage bots with repl.it](https://www.youtube.com/watch?v=xIupgFR7ZTY)
 
 ## Download and install Node
