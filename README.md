@@ -4,8 +4,8 @@ Free open source agar.io normal.
 * Bypass recaptcha v3
 * Updated FB files
 
-## Beta PartyBots
-Note: The bots may not appear and it is because it is still a beta version. You can reload the game and reconnect them.
+## PartyBots
+Note: The bots may not appear so try to reconnect until the bots appear
 
 ## Usage Repl
 1. [usage bots with repl.it](https://www.youtube.com/watch?v=xIupgFR7ZTY)
