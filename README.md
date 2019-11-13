@@ -1,5 +1,6 @@
 # Credits to Jimboy's 3100 developer
-Free open source agar.io normal.
+* Bots only work with the LegendMod extension.
+
 ## Changelog
 * Bypass recaptcha v3
 
