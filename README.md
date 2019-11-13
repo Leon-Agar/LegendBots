@@ -1,5 +1,5 @@
 ## Credits to Jimboy's 3100 developer
-* Bots only work with the LegendMod extension.
+* Bots only work with the [LegendMod](https://legendmod.ml/) extension.
 
 ## Changelog
 * Bypass recaptcha v3
