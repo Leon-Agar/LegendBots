@@ -2,7 +2,6 @@
 Free open source agar.io normal.
 ## Changelog
 * Bypass recaptcha v3
-* Updated FB files
 
 ## PartyBots
 Note: The bots may not appear so try to reconnect until the bots appear
