@@ -1,4 +1,4 @@
-# Credits to Jimboy's 3100 developer
+## Credits to Jimboy's 3100 developer
 * Bots only work with the LegendMod extension.
 
 ## Changelog
@@ -13,7 +13,7 @@
 ## Download and install Node
 1. [Node.js 12.13.0 LTS](https://nodejs.org/)
 
-# ##Local host windows
+## Local host windows
 1. Download and extract the 'zip' file
 2. Run Install.bat and wait for the installation and the window to close.
 3. Run Start.bat and leave the window open.
@@ -23,7 +23,7 @@
 7. Click Connect and wait for the "captcha token" to load around 30-60 then run start bots.
 8. Have fun :D
 
-##VPS
+## VPS
 -------
 1. I recommend using a Ubuntu 18.04 LTS from DigitalOcean. You can get one for $5/month and you can use this [link](https://m.do.co/c/fa7a805f6e60) to get $50 on the platform
 2. Run `sudo apt install git` command
