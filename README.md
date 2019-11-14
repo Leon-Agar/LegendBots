@@ -4,9 +4,6 @@
 ## Changelog
 * Bypass recaptcha v3
 
-## PartyBots
-* Note: The bots may not appear so try to reconnect until the bots appear.
-
 ## Usage method Repl.it
 1. [usage bots with repl.it](https://www.youtube.com/watch?v=xIupgFR7ZTY)
 
@@ -19,7 +16,7 @@
 3. Run `Start.bat` and leave the window open.
 4. Go Agario with [LegendMod](https://legendmod.ml/) extension. (you need [tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl) in chrome installed)
 5. Choose the name and number of bots (Do not abuse the server so that people can grow)
-6. in the ws it has to be put; `ws://localhost:1337` or 8083
+6. in the ws it has to be put; `ws://localhost:8083`
 7. Click `Connect` and wait for the "captcha token" to load around 30-60 then run `start bots`.
 8. Have fun :D
 
