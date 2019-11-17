@@ -59,7 +59,6 @@ const bots = {
     name: '',
     amount: 0,
     ai: false
-	c: 0
 }
 const dataBot = {
     ws: null,
