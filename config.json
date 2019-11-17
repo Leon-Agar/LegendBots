@@ -1,8 +1,8 @@
 {
     "server": {
-        "port": 8083,
+        "port": 1337,
         "version": "1.0.8",
         "update": true,
-        "link": "https://github.com/Leon-Agar/LegendBots/blob/master/config.json"
+        "link": "https://jimboy3100.github.io/ExampleScripts/agario-bots2/config.json"
     }
 }
