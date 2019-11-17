@@ -2,8 +2,8 @@
 // version 1.3
 // creator Jimboy3100
 
-// Url https://repl.it/@LeonAgar/party-botsok
-// Websocket wss://party-botsok--LeonAgar.repl.co
+// Url https://repl.it/@legendmod/party-bots
+// Websocket wss://party-bots--legendmod.repl.co
 
 // By comparing Url and Websocket, imagine how your websocket should below
 // If repl.it not loading, wait or make a new repo. Sometimes repl.it bugs
