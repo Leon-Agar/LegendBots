@@ -1,13 +1,3 @@
-// These bots are working with www.legendmod.ml extension or agar.io
-// version 1.3
-// creator Jimboy3100
-
-// Url https://repl.it/@legendmod/party-bots
-// Websocket wss://party-bots--legendmod.repl.co
-
-// By comparing Url and Websocket, imagine how your websocket should below
-// If repl.it not loading, wait or make a new repo. Sometimes repl.it bugs
-
 const WebSocket = require('ws'),
     { murmur2 } = require('murmurhash-js'),
     buffers = require('./buffers'),
