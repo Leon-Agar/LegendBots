@@ -1,3 +1,7 @@
+process.on('uncaughtException', function (err) {
+    console.log(err);
+})
+
 const WebSocket = require('ws'),
     { murmur2 } = require('murmurhash-js'),
     buffers = require('./buffers'),
@@ -55,6 +59,7 @@ const bots = {
     name: '',
     amount: 0,
     ai: false
+	c: 0
 }
 const dataBot = {
     ws: null,
@@ -135,6 +140,7 @@ class Bot {
         this.viewportEntities = {}
         this.offsetX = 0
         this.offsetY = 0
+		this.c = bots.c++;
         this.connect()
     }
     reset() {
