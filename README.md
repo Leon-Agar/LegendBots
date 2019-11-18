@@ -22,7 +22,7 @@
 
 ## Method VPS
 -------
-1. I recommend using a Debian GNU/Linux 9 (stretch) from Cloud Google.
+1. I use Debian GNU/Linux 9 (stretch) from Cloud Google.
 2. Run `sudo apt install git` command and `Yes`
 3. Run `git clone https://github.com/Leon-Agar/LegendBots` command
 4. Run `cd LegendBots` command
