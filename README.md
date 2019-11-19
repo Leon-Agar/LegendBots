@@ -23,7 +23,7 @@
 ## Method VPS
 -------
 1. I use Debian GNU/Linux 9 (stretch) from Cloud Google.
-2. Run `sudo apt install git` command and `Yes`
+2. Run `sudo apt install git` command - then will appear `N/Y` choose `Y`
 3. Run `git clone https://github.com/Leon-Agar/LegendBots` command
 4. Run `cd LegendBots` command
 5. Run `sh install.sh` command
